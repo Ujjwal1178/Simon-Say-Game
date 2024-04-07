@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+}
+
+.box{
+    height: 16vh;
+    width: 16vh;
+    border: 5px solid black;
+    border-radius: 13%;
+    margin: 1.5rem;
+}
+
+
+.big-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.red{
+    background-color: rgb(241, 106, 106);
+}
+
+.green{
+    background-color: rgb(109, 220, 109);
+}
+
+.blue{
+    background-color: rgb(81, 81, 226);
+}
+
+.orange{
+    background-color: rgb(224, 180, 97);
+}
+
+
+.flash{
+    background-color: white;
+}
+
+.danger{
+    background-color: red;
+}
+
+
+.reds{
+    background-color: red;
+}
